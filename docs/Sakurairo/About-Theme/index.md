@@ -6,7 +6,7 @@ title: 关于主题
 
 ## 版本信息
 
-![](/img/about_theme_version_infomation.png)
+![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/about_theme_version_infomation.png)
 
 这里可以查看版本 LOGO 和版本号
 
@@ -14,7 +14,7 @@ title: 关于主题
 
 ### 主题更新源
 
-![](/img/about_theme_update.png)
+![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/about_theme_update.png)
 
 可以直接在 WordPress 后台检查并更新
 
@@ -38,7 +38,7 @@ title: 关于主题
 
 ### 公共 CDN 路径
 
-![](/img/about_theme_cdn.png)
+![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/about_theme_cdn.png)
 您可以选择 又拍云 或者 jsDeliver 作为您主题的公共 CDN 路径
 
 ### 视觉资源路径
